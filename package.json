@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:johncrisostomo/chatastrophe.git",
   "author": "John Crisostomo <johncrisostomo@protonmail.ch>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "react": "15.6.1"
+  }
 }
