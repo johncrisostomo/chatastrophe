@@ -1,0 +1,8 @@
+{
+  "name": "chatastrophe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:johncrisostomo/chatastrophe.git",
+  "author": "John Crisostomo <johncrisostomo@protonmail.ch>",
+  "license": "MIT"
+}
